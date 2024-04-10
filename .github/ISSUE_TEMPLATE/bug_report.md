@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Which game did you experience this problem?**
+<!-- For example, put "Touhou Kourinden" -->
+
 **What part of the game is impacted?**
 <!-- For example, put "Stage 2" or "setup/high score screen" -->
 
