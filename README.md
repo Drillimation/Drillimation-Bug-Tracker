@@ -11,9 +11,9 @@ Make sure you update the game to ensure your problem hasn't been fixed already. 
 ## Search the issue list for any existing reports / 既存の報告を見つけるために問題リストを探してください
 Always search the list of existing issues and ensure your problem has not already been reported. Creating duplicates will always slow us down. If your problem has already been reported, you are welcome to join the discussion by adding comments that could help us further reproduce your issue. You can also leave a thumbs up to say you're also encountering this problem.
 
-問題をすでに報告されていないことを確認するために、既存問題のリストを常に探索してください。重複を作ることは速度を遅くします。問題はすでに報告すれば、議論に参加できます。問題をさらに再現することに協力するために、コメントを追加できます。また、あなたもこの問題が持つと言うために、いいねできます。
+問題をすでに報告されていないことを確認するために、既存問題のリストを常に探索してください。重複を作ることは速度を遅くします。問題はすでに報告したら、議論に参加できます。問題をさらに再現することに協力するために、コメントを追加できます。あなたもこの問題が持つと言うために、いいねできます。
 
 ## Fill out the form with the correct information / 正しい情報でフォームに記入してください
 When submitting an issue, please fill in all fields with pertinent information you can provide. If you don't send all requested information, you may experience delays while we request what is missing. Please strongly consider sending a photo or uploading a video to help us further reproduce the issue.
 
-問題を提出するときは、提供できる適切な情報をすべての項目で記入してください。すべての要求した情報を提供しない場合は、不足している情報を要求するかもしれなく、そして遅延が発生するできます。問題をさらに再現することに協力するために、フォトを送るか動画をアップロードすることを検討してください。
+問題を提出しているときは、提供できる適切な情報をすべての項目で記入してください。すべての要求した情報を提供しないなら、不足している情報を要求するかもしれなく、そして遅延が発生するできます。問題をさらに再現することに協力するために、フォトを送るか動画をアップロードすることを検討してください。
