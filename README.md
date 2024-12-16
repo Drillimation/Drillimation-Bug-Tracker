@@ -16,4 +16,4 @@ Always search the list of existing issues and ensure your problem has not alread
 ## Fill out the form with the correct information / 正しい情報でフォームに記入してください
 When submitting an issue, please fill in all fields with pertinent information you can provide. If you don't send all requested information, you may experience delays while we request what is missing. Please strongly consider sending a photo or uploading a video to help us further reproduce the issue.
 
-問題を提出しているときは、提供できる適切な情報をすべての項目で記入してください。すべての要求した情報を提供しないなら、不足している情報を要求するかもしれなく、そして遅延が発生するできます。問題をさらに再現することに協力するために、フォトを送るか動画をアップロードすることを検討してください。
+問題を提出しているときは、提供できる適切な情報をすべての項目で記入してください。すべての要求した情報を提供しないなら、不足している情報を要求するかもしれなく、そして遅延が発生することができます。問題をさらに再現することに協力するために、フォトを送るか動画をアップロードすることを検討してください。
