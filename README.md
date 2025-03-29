@@ -1,7 +1,7 @@
 # Drillimation Bug Tracker / ドリリメーションバグトラッカー
 This is the official bug tracker for closed-source Drillimation games. Please use this repository to report bugs for problems you have found inside Drillimation games. Before you submit any issues, please read all of the information on the rest of this page so that you can ensure your problem is something you need to tell us and has not already been reported.
 
-これはクローズドソースドリリメーションゲームの公式バグトラッカーです。ドリリメーションゲームの中に見つけた問題を報告するためにリポジトリを使ってください。問題を提出する前に、すべての下の情報を読んでください。問題はすでに報告されていないことを確認してください。
+これはクローズドソースドリリメーションゲームの公式バグトラッカーです。ドリリメーションゲームの中に見つけた問題を報告するためにリポジトリを使ってください。問題を提出する前に、すべての以下の情報を読んでください。問題はすでに報告されていないことを確認してください。
 
 ## Update your game to the current version / ゲームを現行版にアップデートしてください
 Make sure you update the game to ensure your problem hasn't been fixed already. If you aren't currently using the stable version of a game, please do not report something until you have confirmed the stable version still has this problem.
