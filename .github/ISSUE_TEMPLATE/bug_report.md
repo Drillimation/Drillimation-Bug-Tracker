@@ -15,6 +15,7 @@ assignees: ''
 
 
 **What operating system and hardware setup are you using?**
+ - Device type: [e.g. Desktop, Laptop, Phone, Tablet]
  - System Manufacturer: [e.g. Lenovo, Dell, HP] <!-- If you're using a custom build, put the manufacturer of your motherboard. If you're using a Mac, put Apple. -->
  - Processor: [e.g. Intel i7, AMD Ryzen, Apple M1]
  - RAM: [e.g. 8GB]
