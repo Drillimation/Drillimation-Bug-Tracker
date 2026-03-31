@@ -3,6 +3,23 @@ This is the official bug tracker for closed-source Drillimation games. Please us
 
 これはクローズドソースドリリメーションゲームの公式バグトラッカーです。ドリリメーションのゲーム内で見つけた問題のバグを報告するには、このリポジトリを使ってください。問題を報告する前に、このページの残りの部分をすべてお読みください。問題が伝えるべきものであり、すでに報告されていないことを確認する必要があります。
 
+## Check the support status for your game / お使いのゲームのサポート状況を確認してください
+We are no longer providing support for the following titles:
+
+以下のタイトルについては、サポートを終了いたしました：
+
+* *Chuhou Joutai* trilogy/中方状態トリロジー
+* *Touhou Project NES Demakes*/東方プロジェクトファミコンディメイク
+
+## Always post in the correct repository / 必ず適切なリポジトリに投稿してください
+Open-source Drillimation games have their own repositories. If you report an issue for such title here, we may close your issue and ask that you report it in the correct repository. The following games are open source:
+
+オープンソースのドリリメーションゲームには、それぞれ独自のリポジトリがあります。ここでそのようなタイトルの問題を報告された場合、当方ではその問題を閉じ、適切なリポジトリで報告するようお願いする場合があります。以下のゲームはオープンソースです：
+
+* *Touhou Meijinka ~ Song of Divine Tempest*/東方鳴神歌: https://github.com/Drillimation/Touhou-Meijinka-Song-of-Divine-Tempest
+* *Touhou Chouhatsuyou ~ Burgeoning Tresses of Longevity*/東方長髪瑶: https://github.com/Drillimation/Touhou-Chouhatsuyou-Burgeoning-Tresses-of-Longevity
+* *Touhou Meishuugeki ~ Cursed Sweeper and Bewildering Parallel*/東方明秋劇: https://github.com/Drillimation/Touhou-Meishuugeki-Cursed-Sweeper-and-Bewildering-Parallel
+
 ## Update your game to the current version / ゲームを安定版にアップデートしてください
 Make sure you update the game to ensure your problem hasn't been fixed already. If you aren't currently using the stable version of a game, please do not report something until you have confirmed the stable version still has this problem.
 
