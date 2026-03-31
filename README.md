@@ -16,9 +16,9 @@ Open-source Drillimation games have their own repositories. If you report an iss
 
 オープンソースのドリリメーションゲームには、それぞれ独自のリポジトリがあります。ここでそのようなタイトルの問題を報告された場合、当方ではその問題を閉じ、適切なリポジトリで報告するようお願いする場合があります。以下のゲームはオープンソースです：
 
-* *Touhou Meijinka ~ Song of Divine Tempest*/東方鳴神歌: https://github.com/Drillimation/Touhou-Meijinka-Song-of-Divine-Tempest
-* *Touhou Chouhatsuyou ~ Burgeoning Tresses of Longevity*/東方長髪瑶: https://github.com/Drillimation/Touhou-Chouhatsuyou-Burgeoning-Tresses-of-Longevity
-* *Touhou Meishuugeki ~ Cursed Sweeper and Bewildering Parallel*/東方明秋劇: https://github.com/Drillimation/Touhou-Meishuugeki-Cursed-Sweeper-and-Bewildering-Parallel
+* [*Touhou Meijinka ~ Song of Divine Tempest*/東方鳴神歌](https://github.com/Drillimation/Touhou-Meijinka-Song-of-Divine-Tempest)
+* [*Touhou Chouhatsuyou ~ Burgeoning Tresses of Longevity*/東方長髪瑶](https://github.com/Drillimation/Touhou-Chouhatsuyou-Burgeoning-Tresses-of-Longevity)
+* [*Touhou Meishuugeki ~ Cursed Sweeper and Bewildering Parallel*/東方明秋劇](https://github.com/Drillimation/Touhou-Meishuugeki-Cursed-Sweeper-and-Bewildering-Parallel)
 
 ## Update your game to the current version / ゲームを安定版にアップデートしてください
 Make sure you update the game to ensure your problem hasn't been fixed already. If you aren't currently using the stable version of a game, please do not report something until you have confirmed the stable version still has this problem.
